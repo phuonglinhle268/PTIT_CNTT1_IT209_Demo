@@ -1,0 +1,15 @@
+# Tệp tin nhật ký (Log files)
+*.log
+
+# Tệp tin do hệ điều hành tự sinh
+.DS_Store
+Thumbs.db
+
+# Cấu hình IDE (Đặc biệt quan trọng với IntelliJ IDEA)
+.idea/
+*.iml
+.vscode/
+
+# Tệp tin tạm thời khi soạn thảo
+*.tmp
+*.swp
